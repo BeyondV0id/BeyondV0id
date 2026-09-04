@@ -1,26 +1,12 @@
-# HARSHA VARDHAN ✦
+<img width="1058" height="317" alt="Screenshot 2026-09-04 112816" src="https://github.com/user-attachments/assets/6a4ad940-7c01-4272-b95f-5feb13f0f180" />
+
+
 
 Love building things, exploring new ideas, and figuring out how they work.
 
 Currently building useful things and exploring backend engineering, system design, AI, and open source.
 
----
 
-## Connect With Me
-
-» Portfolio → [https://vardhan-dev.vercel.app/](https://vardhan-dev.vercel.app/)
-» LinkedIn → [https://www.linkedin.com/in/g-harsha-vardhan/](https://www.linkedin.com/in/g-harsha-vardhan/)
-
----
-
-## Featured Projects
-
-● SourceSurf
-✦ A platform for discovering and exploring open-source projects.
-✦ Search repositories, explore contributors, and manage PRs and issues in one place.
-✦ [https://ossurf.vercel.app](https://ossurf.vercel.app)
-
----
 
 Thanks for stopping by! :)
 
