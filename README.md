@@ -1,11 +1,11 @@
 <img width="1058" height="317" alt="Screenshot 2026-09-04 112816" src="https://github.com/user-attachments/assets/6a4ad940-7c01-4272-b95f-5feb13f0f180" />
 
 
+Building things and figuring out how they work.
 
-Love building things, exploring new ideas, and figuring out how they work.
+Exploring backend, system design, AI, and open source.
 
-Currently building useful things and exploring backend engineering, system design, AI, and open source.
-
+Always open to good ideas. :)
 
 
 Thanks for stopping by! :)
