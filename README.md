@@ -1,5 +1,4 @@
-<img width="1058" height="317" alt="Screenshot 2026-09-04 112816" src="https://github.com/user-attachments/assets/6a4ad940-7c01-4272-b95f-5feb13f0f180" />
-
+<img src="./Pixel%20Wave%20Portfolio%20Header.png" width="100%" alt="Pixel Wave Portfolio Header" />
 
 Building things and figuring out how they work.
 
